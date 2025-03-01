@@ -1,10 +1,11 @@
-apache/doris:2.0.0_alpha-fe-x86_64
-apache/doris:2.0.0_alpha-be-x86_64
-mysql:8.0.18
-redis:7.4.0
-nacos/nacos-server:v2.4.2
-emqx:5.8.1
-apache/rocketmq:5.3.1
-apache/rocketmq:5.3.1
-apacherocketmq/rocketmq-dashboard:1.0.0
-nginx:perl
+# apache/doris:2.0.0_alpha-fe-x86_64
+# apache/doris:2.0.0_alpha-be-x86_64
+# mysql:8.0.18
+# redis:7.4.0
+# nacos/nacos-server:v2.4.2
+# emqx:5.8.1
+# apache/rocketmq:5.3.1
+# apache/rocketmq:5.3.1
+# apacherocketmq/rocketmq-dashboard:1.0.0
+# nginx:perl
+openjdk:21-jdk
