@@ -9,4 +9,5 @@
 #apacherocketmq/rocketmq-dashboard:1.0.0
 #nginx:perl
 #openjdk:21-jdk
-ghcr.io/trugamr/wol:latest
+#ghcr.io/trugamr/wol:latest
+certimate/certimate:v0.4.0-alpha.4
