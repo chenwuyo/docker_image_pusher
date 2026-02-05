@@ -11,4 +11,5 @@
 #openjdk:21-jdk
 #ghcr.io/trugamr/wol:latest
 #certimate/certimate:v0.4.0-alpha.4
-agilestacks/fluentd-elasticsearch:v1.3.0
+#agilestacks/fluentd-elasticsearch:v1.3.0
+openjdk:21-jdk
